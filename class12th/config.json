@@ -18,8 +18,8 @@
 		"redirect_url": ""
 	},
 	"notification": {
-		"fcm_notification_topic": "blogger_ebook_app_topic",
-		"onesignal_app_id": "00000000-0000-0000-0000-000000000000"
+		"fcm_notification_topic": "com.akbnotes.ncertclass12",
+		"onesignal_app_id": "cd3283cc-6800-4364-9d07-096a2279c9b1"
 	},
 	"ads": {
 		"ad_status": "0",
