@@ -18,8 +18,8 @@
 		"redirect_url": ""
 	},
 	"notification": {
-		"fcm_notification_topic": "com.akbnotes.rdsharmaclass12",
-		"onesignal_app_id": "6c77911e-b34a-49c2-bd61-71b2402bba58"
+		"fcm_notification_topic": "com.akbnotes.bsscsetpractice",
+		"onesignal_app_id": "2a3485e2-84b5-462f-997e-4177245e327e"
 	},
 	"ads": {
 		"ad_status": "0",
